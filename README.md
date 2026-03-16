@@ -1,4 +1,4 @@
-# AWS VPC Architecture Lab
+# AWS VPC Architecture 
 
 This project demonstrates how to build a custom VPC architecture in AWS.
 
